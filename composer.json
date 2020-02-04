@@ -1,15 +1,15 @@
 {
-	"name":"15573443560qqcom/ying",
-	"description":"Ying 15573443560qqcom Ying",
+	"name":"15573443560qqcom/php-",
+	"description":"Ying 15573443560qqcom php-",
 	"keywords":[
 		"yii2",
-		"Ying"
+		"php-"
 	],
-	"homepage":"https://github.com/15573443560qqcom/ying",
+	"homepage":"https://github.com/15573443560qqcom/php-",
 	"type":"yii2-sa",
 	"license":"MIT",
 	"support":{
-		"source":"https://github.com/15573443560qqcom/ying"
+		"source":"https://github.com/15573443560qqcom/php-"
 	},
 	"authors":[
 		{
